@@ -13,7 +13,6 @@ Quick 'n' dirty UI to POST parameters to start Futurama, an internal testing too
  1. flightDomain: ```[qa, qacore, stage]```
  1. smoothingFile: ```./src/main/resources/<name_of_smoothing_file>.csv```
 1. Hit ```SEND```
-2. 
 
 ### To Do:
 1. Wire-up ```RESET``` button
